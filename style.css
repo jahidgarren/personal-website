@@ -1,0 +1,102 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+
+}
+.first-section{
+    height: 580px;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display:flex;
+    align-items: center;
+    padding: 50px 80px 50px 80px;
+
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+    font-weight: 600;
+}
+h3{
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    margin: 60px 0px 0px 0px;
+}
+#just-one{
+    padding-top: 50px;
+    text-align: center;
+}
+span{
+    color:#FF4E95;
+    font-weight:900; 
+}
+p{
+    margin-bottom: 35px;
+}
+.for-button{
+    text-decoration: none;
+    background-color: #FF4E95;
+    color:white;
+    padding: 13px 35px;
+    border-radius: 5px;
+}
+
+.all-div{
+    width: 40%;
+    float: left;
+    padding-left: 70px;
+    line-height: 23px;
+
+}
+.all-div img{
+    width: 80%;
+}
+.second-section{
+    background-image: url(images/biography-bg.png);
+    height: 580px;
+    background-size: 100%;
+    display: flex;
+    background-repeat: no-repea;
+    padding: 100px 150px 0px 150px;
+}
+.photo-div img{
+    margin:0px;
+    width: 85%;
+    float: left;
+}
+.third-section{
+    height: 450px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: 100%;
+    padding: 50px 10px 0px 75px; 
+    text-align: center;
+
+}
+.all-dive{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.last-section{
+    height: 580px;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 100px;
+}
+#special-content{
+    background-color:#FF4E95;
+    border: 1px;
+    margin: 0px 300px 50px 350px;
+    text-align: center;
+    padding:5px;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+}
